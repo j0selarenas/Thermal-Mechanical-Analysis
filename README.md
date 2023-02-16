@@ -5,7 +5,7 @@ The idea of this repository is to do a thermal analysis, then these results are 
 
 
 # How to use:
-1. First, you have to compile OpenSees from this branch I have https://github.com/j0selarenas/OpenSees/tree/develop-larenas
+1. First, you have to compile OpenSees from this branch I have https://github.com/j0selarenas/OpenSees/tree/develop-larenas and add it to you path.
 2. You download the thermal folder, ```functions.py``` & ```runAnalysis.py```
 3. You install the required libraries (```pip install tabulate, numpy, scipy, h5py```)
 4. Then you only need to open ```runAnalysis.py``` and run the code.
